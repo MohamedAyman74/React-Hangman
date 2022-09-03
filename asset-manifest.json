@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Hangman/static/css/main.c8829ab9.css",
+    "main.css": "/React-Hangman/static/css/main.c8d07121.css",
     "main.js": "/React-Hangman/static/js/main.4c07e30b.js",
     "static/media/6.jpg": "/React-Hangman/static/media/6.33ea70122206d18555de.jpg",
     "static/media/5.jpg": "/React-Hangman/static/media/5.bb0f0ce1c8b6c8fe0e79.jpg",
@@ -10,11 +10,11 @@
     "static/media/1.jpg": "/React-Hangman/static/media/1.9a23caa6d0d1e6035dd0.jpg",
     "static/media/0.jpg": "/React-Hangman/static/media/0.72059a7fffc7cf1cf38f.jpg",
     "index.html": "/React-Hangman/index.html",
-    "main.c8829ab9.css.map": "/React-Hangman/static/css/main.c8829ab9.css.map",
+    "main.c8d07121.css.map": "/React-Hangman/static/css/main.c8d07121.css.map",
     "main.4c07e30b.js.map": "/React-Hangman/static/js/main.4c07e30b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8829ab9.css",
+    "static/css/main.c8d07121.css",
     "static/js/main.4c07e30b.js"
   ]
 }
