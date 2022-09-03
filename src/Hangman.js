@@ -79,7 +79,7 @@ class Hangman extends Component {
     const altText = `${this.state.nWrong}/${this.props.maxWrong} guesses`;
     return (
       <div className="Hangman">
-        <h1>Hangman</h1>
+        <h1>Hangman {":("}</h1>
         <img
           src={
             this.state.nWrong < 6
